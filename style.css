@@ -1,0 +1,19 @@
+body{
+font-family:Arial;
+text-align:center;
+padding:50px;
+background:#f5f9ff;
+}
+
+h1{
+color:#0a7cff;
+}
+
+a{
+display:inline-block;
+background:#0a7cff;
+color:white;
+padding:12px 24px;
+text-decoration:none;
+border-radius:8px;
+}
